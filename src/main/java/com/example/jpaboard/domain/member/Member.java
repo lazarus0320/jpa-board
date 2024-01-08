@@ -1,5 +1,6 @@
 package com.example.jpaboard.domain.member;
 
+import com.example.jpaboard.domain.common.BaseTimeEntity;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Builder;
